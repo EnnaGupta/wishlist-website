@@ -1,4 +1,4 @@
-const API_BASE = 'http://localhost:8000'
+const API_BASE = 'https://wishlist-website-g135.onrender.com'
 const API = `${API_BASE}/api`
 
 // ── DOM refs ──────────────────────────────────────────────────────────────────
